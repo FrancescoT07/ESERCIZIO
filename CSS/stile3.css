@@ -1,0 +1,33 @@
+html{
+    background-color: #5be81e;
+}
+
+.titolo{
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+.uno {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    height: 50%;
+}
+
+.giallo{
+    background-color: yellow;
+    text-align: center;
+}
+
+.bianco{
+    background-color: white;
+    padding: 1%;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
